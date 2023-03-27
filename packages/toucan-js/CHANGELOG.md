@@ -1,5 +1,18 @@
 # toucan-js
 
+## 3.1.1
+
+### Patch Changes
+
+- ec953a9: Update sentry-javascript monorepo to v7.43.0
+- df4eeea: Update sentry-javascript monorepo to v7.42.0
+- 86c2be8: Update dependency miniflare to v2.12.1
+- 17b22f1: Update dependency rollup to v3.19.1
+- cde3c15: Update dependency @rollup/plugin-commonjs to v24
+- ac869b6: Update dependency @rollup/plugin-commonjs to v23.0.7
+- d697e6f: Update dependency ts-jest to v29.0.5
+- c478f14: Update dependency @rollup/plugin-replace to v5.0.2
+
 ## 3.1.0
 
 ### Minor Changes
